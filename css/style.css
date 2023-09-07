@@ -1,0 +1,7 @@
+table, td, th{
+    border: 10px;
+    position: fixed;
+    padding: 4px;
+    width: 50px;
+    box-sizing: border-box;
+}
